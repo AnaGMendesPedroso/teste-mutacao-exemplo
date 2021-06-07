@@ -9,7 +9,7 @@
 ![img_1.png](imagensReadme/img_1.png)
 
 # Como vejo o report?
-- O Pitest realiza as mutações a nível de bitecode, então você precisa buildar o projeto antes de executar o pitest.
+- O Pitest - https://pitest.org/ - realiza as mutações a nível de bitecode, então você precisa buildar o projeto antes de executar o pitest.
     1. Abre o terminal ae parça e digita: `./gradlew build`
     2. Dá um gole no seu cafezin (ou do que tiver tomando ai, se não tiver tomando nada, vai lá pegar parça)
     3. Agora sim você executa o pitest: `./gradlew pitest`
