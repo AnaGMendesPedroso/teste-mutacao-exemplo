@@ -2,6 +2,8 @@
 
 ## O que é isso meu consagrado? 
 - Saca só (pode clicar, não é virus. Confia): https://www.canva.com/design/DAEA8IorN4k/ZN_LMXiaWT80mZPBFD3ggg/view?utm_content=DAEA8IorN4k&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+- O objetivo desse meu projetinho é dar um exemplo do que seria um mutante equivalente e como o identificaríamos na fase de análise.
+- Para a exemplificação da aplicação fiz um fork do repo https://github.com/gustavofreze/mutation-test-kotlin e com algumas alterações vamos realizar a análise juntos :)
 
 ## Exemplo report:
 ![img.png](imagensReadme/img.png)

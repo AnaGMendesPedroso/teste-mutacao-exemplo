@@ -5,26 +5,6 @@ import kotlin.math.sqrt
 
 class Calculadora {
 
-    fun somar(valorA: Double, valorB: Double): Double {
-        return valorA + valorB
-    }
-
-    fun subtrair(valorA: Double, valorB: Double): Double {
-        return valorA - valorB
-    }
-
-    fun multiplicar(valorA: Double, valorB: Double): Double {
-        return valorA * valorB
-    }
-
-    fun dividir(valorA: Double, valorB: Double): Double {
-        return valorA/valorB
-    }
-
-    fun potencia(valorA: Double, valorB: Double): Double {
-        return valorA.pow(valorB)
-    }
-
     fun deltaBhaskara(valorA: Double, valorB: Double, valorC: Double): Double {
         val delta = valorB.pow(2.0) - 4.0 * valorA * valorC
         return delta
@@ -52,4 +32,6 @@ class Calculadora {
 
         return x2
     }
+
+
 }
